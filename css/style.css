@@ -1,0 +1,39 @@
+.elementoCentralizado {
+                  text-align: center;
+            }
+          .elementoMenu {
+                 fonte-size: 100%;
+          }
+       .elementoMenu { 
+           background: lightblue
+           }
+      .elementoMenu { border-left-color: rgb(41, 148, 137)
+        } 
+
+         .scrollBar {scrollbar-base-color: lightseagreen}
+
+
+       .tamanhoTexto {font-size: 100%}
+
+       .tamanhoTitulo {font-size: 100%}
+
+      .margemImagem-Externa {
+        margin: auto;
+        width: 55%;
+        text-align: center;
+}
+
+.margemImagem-Interna-Externa {
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        padding: none;
+}
+
+.margemImagem-Interna {
+        width: 100%;
+        margin-left: 0em;
+        margin-top: 0em;
+        margin-right: 0em;
+        margin-bottom: 0em;
+}
